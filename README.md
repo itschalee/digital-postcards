@@ -3,6 +3,7 @@
 A PHP script that generates digital postcards that can be personalized with URL params.
 
 Its used by going to the php file in the browser and adding the url param like file.php?name=john+doe
+live preview at https://cdn.munker.se/postcard-github/?name=Hello%20World
 
 ![screenshot](./img/postcard-sh.png?raw=true)
 
