@@ -6,6 +6,9 @@ Its used by going to the php file in the browser and adding the url param like f
 
 ![screenshot](./img/postcard-sh.png?raw=true)
 
+The template image is located in /img/card.png you need to edit it if you want another picture.
+The php is only uses to add the text to the postcard image.
+
 ## Fonts
 
 This project uses the **Fira Sans** font, which is licensed under the [SIL Open Font License, Version 1.1](./font/OFL.txt).
